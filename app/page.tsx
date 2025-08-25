@@ -599,7 +599,7 @@ export default function Home() {
               </h2>
               <a
                 className="lg:flex border border-1 items-center justify-center border-[#1B1464] text-[#1B1464] px-2 mr-2 py-1 rounded-md shadow lg:px-4 lg:py-2 text-sm lg:text-base hover:bg-gray-100"
-                href="https://store.owlsentry.com/form/eu"
+                href="https://owlsentry.com/products#products"
               >
                 <div className="lg:text-lg flex gap-1 items-center justify-center">
                   <span className="">GET IN TOUCH</span>

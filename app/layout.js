@@ -77,9 +77,9 @@ export default function RootLayout({ children }) {
     >
       <body className={`${poppins.className} relative`}>
         <Suspense fallback={<Loading />}>
-          <Header />
+
           {children}
-          <Footer />
+
         </Suspense>
       </body>
     </html>
